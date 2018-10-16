@@ -12,8 +12,9 @@ GitHub (Mirror): https://github.com/archerindigo/vimrc
 1. [Featurs and Objectives](#feature-and-objectives)
 2. [Screenshots](#screenshots)
 3. [Plugins Included](#plugins-included)
-4. [Installation](#installation)
-5. [Usage Tips](#usage-tips)
+4. [Color Schemes Included](#color-schemes-included)
+5. [Installation](#installation)
+6. [Usage Tips](#usage-tips)
 
 ## Features and Objectives
 
@@ -33,9 +34,13 @@ __Major features included:__
 You may look into .vimrc to better understand what have set.
 
 ## Screenshots
-![Tab and Split Windows](/screenshots/1.png)
+![2 C++ files with tabs, nerdtree and taglist in gvim](/screenshots/0.3.0-1.png)
+2 C++ files with tabs, nerdtree and taglist opened in gvim
 
-![Nice Color](/screenshots/2.png)
+![A markdown file opened in transparent terminal](/screenshots/0.3.0-2.png)
+A markdown file opened in a transparent terminal
+
+More in screenshots folder.
 
 ## Plugins Included
 
@@ -47,7 +52,7 @@ You may look into .vimrc to better understand what have set.
 * [fugitive.vim](https://github.com/tpope/vim-fugitive): A git wrapper
 * [gitv](https://github.com/gregsexton/gitv): A repository viewer similar to gitk. Based on fugitive.
 
-## Recommended Color Schemes
+## Color Schemes Included
 
 * [wombat256i](https://github.com/dsolstad/vim-wombat256i): My default scheme for vim. The dim but colorful syntax highlight could make you differentiate the components of your code easily. It also supports transparent background in terminal.
 * [wombat](https://github.com/vim-scripts/Wombat): My default scheme for gvim.

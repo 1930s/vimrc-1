@@ -106,6 +106,10 @@ __Copy and Paste__
 
 > You can select text using in visual mode and press __Ctrl-P__ to copy or __Ctrl-X__ to cut it into system clipboard. To paste the text, you can press __Ctrl-P__ in normal mode or __Ctrl-V__ in insert mode.
 
+__Recommended font__
+
+> It is recommended to use Source Code Pro size 10 as the font. You can uncomment "set guifont=Source\ Code\ Pro\ 10" in .vimrc to enforce the font in gvim. For vim you should set the terminatl font by yourself.
+
 ## Troubleshooting
 
 __Taglist: Exuberant ctags (http://ctags.sf.net) not found in PATH. Plugin is not loaded.__
